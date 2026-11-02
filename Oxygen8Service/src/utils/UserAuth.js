@@ -46,10 +46,6 @@ class UserAuth{
     }
     return true;
   }
-<<<<<<< HEAD
 }
-=======
-
->>>>>>> main
   
 module.exports = UserAuth;
